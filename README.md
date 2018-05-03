@@ -1,0 +1,19 @@
+# Santosh.github.io
+
+## Ph.D. from School of Physical Sciences, Jawaharlal Nehru University, New Delhi (India), 2013
+
+
+## Ph.D. Thesis title: Coherent optical manipulation and processing via dark states in multilevel atomic systems
+
+## Thesis advisor:
+ Prof. Rupamanjari Ghosh
+ 
+## My Research Interest:
+
+## Nonlinear Optics, Quantum Optics and Quantum Information science
+
+My current research interest is in the field of ``"Laser Physics, Atomic Physics, Quantum Optics and Quantum Information" which covers various fundamental and applicative aspects, in particular to understand, control and utilize practical atomic systems for quantum communication network. In my Ph.D. career, I had investigated some specific paradigms in the area of coherent nonlinear atom-light interactions. The study of atom light interaction and understanding of the underlying physics has made it possible to control and manipulate the optical properties of atomic media. In this context, I had carried out extensive experimental and theoretical explorations of the role of atomic coherence for the realization of phenomena, such as Electromagnetically Induced Transparency (EIT), with possible application in magnetometer and magneto-optic switch and the role of population oscillation in the realization of ultra-narrow resonance that cannot be attributed to EIT, which is known as Coherent Population Oscillation (CPO).
+I have also studied this new phenomenon for different polarizations of probe beams in a multi-level atomic system. My collaborators have recently shown that this long-lived CPO can be used as a light-storing device. We also believe that this new phenomenon, insensitive to the inhomogeneous magnetic field, might also be used for photon pair generation. I had theoretically studied a scalable quantum network used to transfer quantum states as well as to create quantum entanglement among nodes. By manipulating the intensities and phases, we can generate computationally useful quantum protocols. This model could be realized experimentally in optical micro cavities.
+As a post-doc at the University of Oklahoma, USA, I taught undergraduate and graduate students in the atomic, molecular, and optical seminar and also actively involved with graduate students to perform two main projects: (1) sensing weak microwave (MW) electric field with Rydberg atoms in a vapor cell using EIT and (2) study of Rydberg-blockaded atomic ensemble coupled to an optical cavity. Recently, we have shown for the first time that Rydberg atom EIT can be used to image MW electric field with unprecedented precision. To demonstrate the near-field sub-wavelength imaging, we investigated the MW electric field above a coplanar waveguide. This method promises to have a wide range of applications, particularly in characterizing meta-materials and small MW circuits. We are working on experimental and theoretical progress on a Rydberg-blockaded atomic ensemble coupled to a high-finesse optical cavity. We have analyzed the role that the Rydberg blockade mechanism can play in synthesizing non-classical states of light. We have shown that a cold atomic cloud can be transported into a cavity by using a focus-tunable lens and that a Rydberg-blockaded collective state can be created inside the cavity. Now, we are trying to realize collective quantum states and study the interesting dynamics of the correlated photon emission.
+As a post-doc at the Stevens Institute of Technology, USA, I am working on smart optical beams (airy beams) to study their non-diffracting and self-healing properties at the single-photon level and utilizes them for weather-persistent Quantum Key Distribution (QKD) and medical applications. I have also reviewed some reputed international journal like opt. exp., opt. lett., Optica, JOSAB, JPB etc.
+
